@@ -9,5 +9,9 @@
  ### -it has (*) operator for multiplication.
  ### -it has (mod) operation for mudoulo.
  ### -it has (clear) operaton to delet everything.
+## future goals:
+ ### in future i would like to make scientific calculator which will just not help to do simple mathmetical operation but also help us to do some complex problems.
+ ### Name: Manjesh silwal
+ ### student id: 210209
 
 
