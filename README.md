@@ -1,3 +1,6 @@
 # Simple calculator
-![11](https://user-images.githubusercontent.com/84695191/125803416-6a1b7f3f-d939-4e65-923a-04bfc0421ef8.jpg)
+![1](https://user-images.githubusercontent.com/84695191/125804565-ee20d100-badf-4325-a6dc-4622bffc9f93.png)
+## Description
+  This is a simple calculator which helps to do simple mathmetical operations in convenient way
+
 
