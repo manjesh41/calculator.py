@@ -9,6 +9,7 @@
  ### -it has (*) operator for multiplication.
  ### -it has (mod) operation for modulo.
  ### -it has (clear) operaton to delete everything.
+ ### -it has(=) operator to give the value of operands which we give to calculate.
 ## future goals:
  ### In future i would like to make scientific calculator which will just not help to do simple mathmetical operation but also help us to do some complex problems.
  
